@@ -94,6 +94,7 @@ The 15-day sales forecast provides forward-looking insights, aiding in inventory
 
 6.Screenshot
 https://github.com/alihamza2912/Super-Store-Sales-Dashboard/blob/main/Sales%20Dashboard.png
+https://github.com/alihamza2912/Super-Store-Sales-Dashboard/blob/main/Screenshot%202025-06-20%20112215.png
 
 💰 Profit Optimization
 Understanding profit contribution by payment mode allows businesses to promote more profitable channels (e.g., COD over cards).
