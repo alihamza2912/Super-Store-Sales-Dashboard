@@ -91,6 +91,10 @@ State-wise sales visualization identifies top markets (e.g., California), suppor
 📈 Predictive Planning
 The 15-day sales forecast provides forward-looking insights, aiding in inventory planning, workforce allocation, and demand forecasting.
 
+
+6.Screenshot
+https://github.com/alihamza2912/Super-Store-Sales-Dashboard/blob/main/Sales%20Dashboard.png
+
 💰 Profit Optimization
 Understanding profit contribution by payment mode allows businesses to promote more profitable channels (e.g., COD over cards).
 
